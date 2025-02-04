@@ -77,13 +77,13 @@ h3:hover {
     width: 100px;
     height: 100px;
     background-color: #cc0000;
-    animation-name: move;
+    animation-name: swap;
     animation-duration: 3s;
     animation-iteration-count: infinite;
     margin: 0 auto;
 }
 
-@keyframes move {
+@keyframes swap {
     0% {background-color: #cc0000;}
     50% {background-color: #009900;}
     100% {background-color: #cc0000;}
