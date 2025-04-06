@@ -8,15 +8,15 @@
 </head>
 
 <header>
-    <h1>Welcome!</h1>
+    <h1>Home Page</h1>
 </header>
 
 <body>
-    <p>This is the home page.</p>
-    <p>This is where the links to all the other pages will be.</p>
-    <p>About Us</p>
-    <p>Blog Pages</p>
-    <p>Contact Us</p>
+    <h2>Welcome!</h2>
+    <p></p>
+    <p><a href="about-us.php">About Us</a></p>
+    <p><a href="blog.php">Blog Pages</a></p>
+    <p><a href="contact.php">Contact Us</a></p>
 </body>
 
 <footer>

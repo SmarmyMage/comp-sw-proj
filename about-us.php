@@ -8,13 +8,15 @@
 </head>
 
 <header>
-    <h1>Welcome!</h1>
+    <h1>About Us</h1>
 </header>
 
 <body>
-    <p>This is the about us page.</p>
-    <p>This is where information about me will be.</p>
-    <p>Reasons for this blog will also be here.</p>
+    <h2>Who I Am</h2>
+    <p>Hello, my name is Anthony Reyna. I am currently 22 and I am a student at Dallas College, studying web development.</p>
+    <p>I enjoy playing video games, watching internet videos, and listening to music.<br></p>
+    <h2>This Website</h2>
+    <p>I am building this web page for a college class, where I make my own web site.</p>
 </body>
 
 <footer>

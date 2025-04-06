@@ -8,12 +8,13 @@
 </head>
 
 <header>
-    <h1>Welcome!</h1>
+    <h1>Contact</h1>
 </header>
 
 <body>
-    <p>This is the contact page..</p>
-    <p>This is where all the contact info will be laid out.</p>
+    <h2>If you have questions for me about the blog or otherwise, contact me via:</h2>
+    <p><a href="tel:+1235556789">Phone: (123) 555-6789</a></p>
+    <p><a href="mailto:reynaanthony164@gmail.com" class="link">Email</a></p>
 </body>
 
 <footer>

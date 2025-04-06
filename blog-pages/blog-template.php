@@ -12,8 +12,8 @@
 </header>
 
 <body>
-    <p>This is a template for later.</p>
-    <p>Make sure to make this a proper template for PHP.</p>
+    <h2>This page hasn't been developed yet.</h2>
+    <p>A proper page will be added at a later day.</p>
 </body>
 
 <footer>

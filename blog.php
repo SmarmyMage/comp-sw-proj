@@ -8,12 +8,16 @@
 </head>
 
 <header>
-    <h1>Welcome!</h1>
+    <h1>Blog Directory</h1>
 </header>
 
 <body>
-    <p>This is the main hub for the blog pages.</p>
-    <p>Make sure to make the blog pages proper.</p>
+    <h2>This is the main hub for the blog pages.</h2>
+    <h3>Blog Categories</h3>
+    <p><a href="blog-pages/update.php">Updates</a></p>
+    <p><a href="blog-pages/blog-template.php">Personal Entries</a></p>
+    <p><a href="blog-pages/blog-template.php">Hobbies</a></p>
+    <p><a href="blog-pages/blog-template.php">Web Development</a></p>
 </body>
 
 <footer>

@@ -9,10 +9,10 @@ header {
     background-color: #3333ff;
     text-align: center;
 }
-
+/*
 header:hover {
     background-color: #ff9933;
-}
+}*/
 
 h1 {
     font-weight: bold;
@@ -22,7 +22,7 @@ h1 {
 
 body {
     font-family: sans-serif;
-    text-align: center;
+    /* text-align: center; */
     margin: 1em;
     background-color: antiquewhite;
 }
@@ -35,27 +35,27 @@ h2 {
     color: #cc0000;
     margin-bottom: .5em;
 }
-
+/*
 h2:hover {
     color: #009900;
-}
+}*/
 
 h3 {
     color: #9900cc;
     margin-bottom: .5em;
 }
-
+/*
 h3:hover {
     color: #eecc66;
-}
+}*/
 
 .link {
     color: blue;
 }
-
+/*
 .link:hover {
     color: orange;
-}
+} */
 
 .link:visited {
     color: #551A8B;
@@ -65,29 +65,29 @@ h3:hover {
     width: 100px;
     height: 100px;
     background-color: #cc0000;
-    transition: 1s;
+    /* transition: 1s; */
     margin: 0 auto;
 }
-
+/*
 #a:hover {
     background-color: purple;
-}
+}*/
 
 #b {
     width: 100px;
     height: 100px;
     background-color: #cc0000;
-    animation-name: swap;
+   /* animation-name: swap;
     animation-duration: 3s;
-    animation-iteration-count: infinite;
+    animation-iteration-count: infinite; */
     margin: 0 auto;
 }
-
+/*
 @keyframes swap {
     0% {background-color: #cc0000;}
     50% {background-color: #009900;}
     100% {background-color: #cc0000;}
-}
+} */
 
 footer {
     margin-top: 1em;
